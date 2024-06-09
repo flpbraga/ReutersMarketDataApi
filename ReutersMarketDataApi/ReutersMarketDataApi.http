@@ -1,0 +1,6 @@
+@ReutersMarketDataApi_HostAddress = http://localhost:5212
+
+GET {{ReutersMarketDataApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
